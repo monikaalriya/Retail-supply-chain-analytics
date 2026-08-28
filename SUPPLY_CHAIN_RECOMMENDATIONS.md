@@ -1,7 +1,7 @@
 # Supply Chain Recommendations
 
 Actionable moves derived from the stockout, supplier, spoilage, and
-forecasting analysis in `analysis.py`.
+forecasting analysis in `supply_chain.ipynb`.
 
 ## 1. Fix the Real Driver: Supplier Reliability, Not Lead Time
 
@@ -65,5 +65,4 @@ across the catalog, especially ahead of the festive-season demand spike.
 - A/B test smaller, more frequent Perishables orders on a subset of stores
   before rolling out chain-wide
 
----
-*Note: Dataset is synthetically generated for portfolio/demonstration purposes and does not represent a real business.*
+
