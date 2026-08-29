@@ -14,6 +14,13 @@ suppliers, or badly-set reorder points? This project traces stockouts and
 spoilage back to their actual drivers across 16 stores, 30 products, and
 10 suppliers over a full year of weekly inventory data.
 
+## Business Questions
+- Which products and categories experience the highest stockout rates?
+- Which regions and stores contribute most to lost sales?
+- Are unreliable suppliers associated with higher stockout rates?
+- Which categories generate the highest spoilage costs?
+- Which products have inefficient inventory turnover?
+
 ## Tech Stack
 
 - **Python**: pandas, numpy, matplotlib — cleaning, KPI calculation, root
